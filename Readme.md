@@ -9,3 +9,5 @@
 ## Notes
 
 - Load NTAG215 dumps using [iTunes sharing](https://support.apple.com/en-us/HT201301) if using the ipa, or put the NTAG215 dumps in /var/mobile/tagbin folder if using the deb
+
+updating
